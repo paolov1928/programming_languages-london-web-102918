@@ -36,5 +36,5 @@ def reformat_languages(languages)
   #Could create a little array with each part of language and then reassign to the hash
   #use the to symb changer
   #Could just remove top level
-
+languages.each do |
 end
